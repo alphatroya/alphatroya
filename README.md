@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Alex. I'm an iOS developer in [Heads and Hands](https://handh.ru). Here are some of my stats:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alphatroya&count_private=true&show_icons=true&theme=nord)
+
+![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphatroya&theme=nord&layout=compact)
+
 <!--
 **alphatroya/alphatroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
