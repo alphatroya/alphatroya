@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Alex. I'm an iOS developer in [Heads and Hands](https://handh.ru). Here are some of my stats:
+My name is Alex. I'm an iOS developer in [Heads and Hands](https://handh.ru).
+
+Here are some of my stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alphatroya&count_private=true&show_icons=true&theme=nord)
 
