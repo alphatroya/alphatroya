@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex. I'm an iOS developer in [Heads and Hands](https://handh.ru).
+My name is Alex. I'm an iOS developer at [Heads and Hands](https://handh.ru).
 
 Here are some of my stats:
 
