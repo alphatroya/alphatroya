@@ -4,7 +4,11 @@
 [![email](https://img.shields.io/badge/alphatroya-36BFD1?style=for-the-badge&logo=gmail)](mailto:alphatroya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/alphatroya-00a0dc?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alphatroya/)
 
-I'm an iOS developer at [Heads and Hands](https://handh.ru).
+I'm a 32 y.o. iOS developer at [Heads and Hands](https://handh.ru).
+
+- 🔭 I’m currently working on a new iOS application.
+- 🌱 I’m currently learning SwiftUI and a new iOS 14 features 🙂
+- 💬 Ask me about any Swift/Objc and iOS specific questions.
 
 Here are some of my humble stats:
 
