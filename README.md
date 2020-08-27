@@ -1,12 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Alex Korolev 👋
 
-My name is Alex. I'm an iOS developer at [Heads and Hands](https://handh.ru).
+[![Telegram](https://img.shields.io/badge/@alphatroya-0088cc?style=for-the-badge&logo=Telegram)](https://teleg.run/alphatroya)
+[![email](https://img.shields.io/badge/alphatroya-36BFD1?style=for-the-badge&logo=gmail)](mailto:alphatroya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/alphatroya-00a0dc?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alphatroya/)
 
-Here are some of my stats:
+I'm an iOS developer at [Heads and Hands](https://handh.ru).
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alphatroya&count_private=true&show_icons=true&theme=nord)
+Here are some of my humble stats:
 
-![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphatroya&theme=nord&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=alphatroya&count_private=true&show_icons=true&theme=nord) ![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphatroya&theme=nord&layout=compact)
 
 <!--
 **alphatroya/alphatroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
