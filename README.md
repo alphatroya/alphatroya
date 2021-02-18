@@ -6,9 +6,10 @@
 
 I'm a 32 y.o. iOS developer at [Heads and Hands](https://handh.ru).
 
-- 🔭 I’m currently working on a new iOS application.
-- 🌱 I’m currently learning SwiftUI and a new iOS 14 features 😋
-- 💬 Ask me about any Swift/Objc and iOS specific questions.
+- 🔭 I’m currently working on new interesting iOS applications.
+- 🌱 I’m currently learning SwiftUI and always search for something new in iOS development 😋
+- 🐶 In the spare time I take care of my Go and Swift pets.
+- 💬 Ask me about any Swift/Objc and iOS-specific questions.
 
 Here are some of my humble stats:
 
