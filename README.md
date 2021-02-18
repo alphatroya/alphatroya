@@ -1,4 +1,4 @@
-## Hi there, I'm Alex Korolev 👋
+## Hi there, I'm Alexey Korolev 👋
 
 [![Telegram](https://img.shields.io/badge/@alphatroya-0088cc?style=for-the-badge&logo=Telegram)](https://teleg.run/alphatroya)
 [![email](https://img.shields.io/badge/alphatroya-36BFD1?style=for-the-badge&logo=gmail)](mailto:alphatroya@gmail.com)
