@@ -4,7 +4,7 @@
 [![email](https://img.shields.io/badge/alphatroya-36BFD1?style=for-the-badge&logo=gmail)](mailto:alphatroya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/alphatroya-00a0dc?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alphatroya/)
 
-I'm a 33 y.o. iOS and Golang developer at [Heads and Hands](https://handh.ru).
+I'm a 34 y.o. iOS and Golang developer at [Heads and Hands](https://handh.ru).
 
 - 🔭 I'm currently working on a backend API written in Go.
 - 🌱 I'm currently learning Go programming language and everything about writing microservice backend applications.
