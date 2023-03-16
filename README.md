@@ -12,7 +12,7 @@ Hello, I'm Alex, a 34 y.o. developer with experience in iOS and Golang developme
 
 🐾 When I'm not coding, I enjoy taking care of my pets and spending time with my family. Or at least, that's what I'm supposed to do. In reality, I spend most of my free time tweaking my Neovim configuration. Who needs a social life when you have a perfectly configured Vim editor, right?
 
-💬 Feel free to ask me any questions related to Swift or Golang development (or neovim), and I'll be happy to help out.
+💬 Feel free to ask me any questions related to Swift, Objective-C, Golang development, or Neovim editor configuration and usage, and I'll be happy to help out.
 
 Additionally, to keep track of my progress and contributions to open-source projects, I've included some statistics below that showcase my activity on GitHub.
 
