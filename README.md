@@ -4,7 +4,7 @@
 [![email](https://img.shields.io/badge/alphatroya-36BFD1?style=for-the-badge&logo=gmail)](mailto:alphatroya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/alphatroya-00a0dc?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alphatroya/)
 
-Hello, I'm a 34 y.o. developer with experience in iOS and Golang development. I currently work at [Heads and Hands](https://handh.ru).
+Hello, I'm a 35 y.o. developer with experience in iOS and Golang development. I currently work at [Heads and Hands](https://handh.ru).
 
 👨‍💻 I'm passionate about creating robust and scalable backend APIs using Go and exploring new technologies to build better applications. Currently, I've been diving into the world of containerization with Docker and orchestration with Kubernetes.
 
