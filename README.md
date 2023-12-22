@@ -22,3 +22,5 @@ Additionally, to keep track of my progress and contributions to open-source proj
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphatroya&theme=vue&layout=compact" />
 </a>
+
+![contributions](https://raw.githubusercontent.com/alphatroya/alphatroya/output/github-contribution-grid-snake-dark.svg)
