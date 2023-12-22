@@ -14,13 +14,4 @@ Hello, I'm a 35 y.o. developer with experience in iOS and Golang development. I 
 
 💬 Feel free to ask me any questions related to Swift, Objective-C, Golang development, or Neovim editor configuration and usage, and I'll be happy to help out.
 
-Additionally, to keep track of my progress and contributions to open-source projects, I've included some statistics below that showcase my activity on GitHub.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphatroya&count_private=true&show_icons=true&theme=vue" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphatroya&theme=vue&layout=compact" />
-</a>
-
 ![contributions](https://raw.githubusercontent.com/alphatroya/alphatroya/output/github-contribution-grid-snake-dark.svg)
