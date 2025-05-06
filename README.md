@@ -3,7 +3,7 @@
 [![email](https://img.shields.io/badge/alphatroya-36BFD1?style=for-the-badge&logo=gmail)](mailto:alphatroya@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/alphatroya-00a0dc?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alphatroya/)
 
-Hello, I'm a 36 y.o. developer with experience in iOS and Golang development. I currently work at [Heads and Hands](https://handh.ru).
+Hello, I'm a 36 y.o. developer with experience in iOS and Golang development.
 
 👨‍💻 I'm an iOS developer passionate about creating intuitive and impactful mobile experiences. I'm particularly interested in staying updated on the latest trends in iOS development and exploring improvements in the Swift programming language.
 
